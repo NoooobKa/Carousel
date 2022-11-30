@@ -1,0 +1,6 @@
+name: Carousel
+description: Carousel
+main: ru.nbk.carousel.Main
+version: 1.0.0
+commands:
+  Carousel:
